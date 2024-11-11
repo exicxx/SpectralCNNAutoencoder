@@ -1,10 +1,6 @@
-Here’s a detailed README file for your project, organized with clear sections to describe the functionality, installation steps, and usage of each major feature.
+# SpectralCNNAutoencoder
 
----
-
-# SpectralAutoencoder
-
-`SpectralAutoencoder` is a Python project designed for analyzing spectral data using a Convolutional Neural Network (CNN) autoencoder. This tool identifies and visualizes anomalies in spectral data by reconstructing spectra, highlighting anomalous regions, and overlaying associated galaxy images from the Sloan Digital Sky Survey (SDSS).
+`SpectralCNNAutoencoder` is a Python project designed for analyzing spectral data using a Convolutional Neural Network (CNN) autoencoder. This tool identifies and visualizes anomalies in spectral data by reconstructing spectra, highlighting anomalous regions, and overlaying associated galaxy images from the Sloan Digital Sky Survey (SDSS).
 
 ## Features
 
@@ -31,8 +27,8 @@ Here’s a detailed README file for your project, organized with clear sections 
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/SpectralAutoencoder.git
-cd SpectralAutoencoder
+git clone https://github.com/your-username/SpectralCNNAutoencoder.git
+cd SpectralCNNAutoencoder
 ```
 
 Install dependencies if you haven't already:
@@ -125,5 +121,3 @@ save_sampling_info(
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for bug fixes or feature requests.
-
-## License
