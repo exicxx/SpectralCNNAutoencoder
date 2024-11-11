@@ -7,7 +7,7 @@
 - **Autoencoder Model for Spectra**: Train a CNN autoencoder to compress and reconstruct spectral data.
 - **Anomaly Detection**: Detects anomalies based on reconstruction residuals and custom thresholds, allowing fine control over anomaly sensitivity.
 - **Visualization**:
-  - Generates overlayed plots of original and reconstructed spectra, with highlighted residuals.
+  - Generates superimposed plots of original and reconstructed spectra, with highlighted residuals.
   - Provides options to plot only anomalous spectra.
   - Fetches and displays SDSS galaxy images next to spectra.
   - Saves plots with unique file names to prevent overwrites.
