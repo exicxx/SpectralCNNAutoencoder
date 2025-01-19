@@ -3,6 +3,16 @@
 
 # Ignore system files
 .DS_Store
+# Ignore image and JSON files
+*.png
+*.json
+
+# Ignore output directories
+SpectralCNNAutoencoder_output/
+output_images/
+output_images_local_threshold/
+output_images_windowed_mse/
+anomalous_regions/
 
 # Ignore Python cache and compiled files
 __pycache__/
