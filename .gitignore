@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
 # Ignore system files
 .DS_Store
+=======
+>>>>>>> c1a8081 (Initial commit with SpectralCNN Autoencoder project)
 # Ignore image and JSON files
 *.png
 *.json
@@ -13,8 +16,20 @@ output_images/
 output_images_local_threshold/
 output_images_windowed_mse/
 anomalous_regions/
+<<<<<<< HEAD
+=======
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+>>>>>>> c1a8081 (Initial commit with SpectralCNN Autoencoder project)
 
 # Ignore Python cache and compiled files
 __pycache__/
 *.py[cod]
 
+<<<<<<< HEAD
+=======
+.git_backup
+>>>>>>> c1a8081 (Initial commit with SpectralCNN Autoencoder project)
