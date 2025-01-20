@@ -22,7 +22,11 @@ tqdm>=4.66.5
 torchviz>=0.0.2
 
 # Sparcl Client and Other Custom Libraries
+<<<<<<< HEAD
 sparclclient>=1.2.3
+=======
+sparclclient>=1.2.3  # Verify the version
+>>>>>>> e50f295 (Updated files and requirements.txt)
 authlib>=1.2.0
 
 # Visualization Tools
@@ -32,4 +36,8 @@ wordcloud>=1.9.3
 # Jupyter and Notebook Tools
 jupyter>=4.0.0
 ipython>=8.15.0
+<<<<<<< HEAD
 ipywidgets>=8.0.6
+=======
+ipywidgets>=8.0.6
+>>>>>>> e50f295 (Updated files and requirements.txt)
